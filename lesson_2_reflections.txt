@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Now I have a repository where I can commit my project process. I need this for 
+a good control on my developments.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area I can put files that I may modify. It is good because I don't need to worry about configuration files in my projecto, for example.  
