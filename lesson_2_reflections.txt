@@ -4,4 +4,9 @@ Now I have a repository where I can commit my project process. I need this for
 a good control on my developments.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-Staging area I can put files that I may modify. It is good because I don't need to worry about configuration files in my projecto, for example.  
+Staging area I can put files that I may modify. It is good because I don't need to worry about configuration files in my projecto, for example. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I add to staging area only files that I want to commit and then a I use git status to verify 
+my logical changes.  
